@@ -1,0 +1,4 @@
+/home/hkcrc-tony/software/CLion/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/home/hkcrc-tony/software/CLion/CLion-2023.2.2/clion-2023.2.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/hkcrc-tony/development/bundle_adjustment -B /home/hkcrc-tony/development/bundle_adjustment/build/release/temp
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/hkcrc-tony/development/bundle_adjustment/build/release/temp

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bundle_adjustment",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "adjustment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adjustment-Release-a67397ff9e84f89000b8.json",
+					"name" : "adjustment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_bundle_adjustment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_bundle_adjustment-Release-3ca943d55e26b30048d8.json",
+					"name" : "test_bundle_adjustment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_bundle_adjustment_param::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_bundle_adjustment_param-Release-08918c64f29bd89374c0.json",
+					"name" : "test_bundle_adjustment_param",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hkcrc-tony/development/bundle_adjustment/build/release/temp",
+		"source" : "/home/hkcrc-tony/development/bundle_adjustment"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

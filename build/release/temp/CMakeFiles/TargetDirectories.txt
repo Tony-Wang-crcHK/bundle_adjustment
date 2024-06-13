@@ -1,0 +1,5 @@
+/home/hkcrc-tony/development/bundle_adjustment/build/release/temp/CMakeFiles/adjustment.dir
+/home/hkcrc-tony/development/bundle_adjustment/build/release/temp/CMakeFiles/test_bundle_adjustment.dir
+/home/hkcrc-tony/development/bundle_adjustment/build/release/temp/CMakeFiles/test_bundle_adjustment_param.dir
+/home/hkcrc-tony/development/bundle_adjustment/build/release/temp/CMakeFiles/edit_cache.dir
+/home/hkcrc-tony/development/bundle_adjustment/build/release/temp/CMakeFiles/rebuild_cache.dir

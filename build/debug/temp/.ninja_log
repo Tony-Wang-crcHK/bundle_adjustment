@@ -1,0 +1,16 @@
+# ninja log v5
+2	3030	1698222041199058764	CMakeFiles/test_bundle_adjustment_param.dir/test/test_bundle_adjustment_param.cpp.o	d2e2378b0c0db6be
+14556	14780	1697181315529059851	/home/hkcrc-tony/development/bundle_adjustment/build/debug/bin/bundle_adjustment_test	33975cb345af98b4
+2	7959	1698310068407271920	CMakeFiles/test_bundle_adjustment.dir/test/test_bundle_adjustment.cpp.o	38e5b2bdf956ec20
+1	242	1698226483192825758	/home/hkcrc-tony/development/bundle_adjustment/build/debug/bin/test_bundle_adjustment_param	1e7377ae5c293a4
+3776	3963	1697166600380971400	/home/hkcrc-tony/development/bundle_adjustment/build/debug/bin/bundle_adjustment_param_test	448d1fa00386cc2d
+2	3142	1697166599560955151	CMakeFiles/bundle_adjustment_param_test.dir/test/bundle_adjustment_param_test.cpp.o	840a62cc87ecffa4
+0	103	1698311188532659836	build.ninja	2b17b58f5ebdfd4d
+2	3920	1697768448791066919	CMakeFiles/adjustment.dir/src/bundle_adjustment_param.cpp.o	eee9f669926944a1
+15424	15667	1698311131644045341	/home/hkcrc-tony/development/bundle_adjustment/build/debug/bin/test_bundle_adjustment	847b889404eeacba
+14883	15424	1698311131400042699	/home/hkcrc-tony/development/bundle_adjustment/build/debug/lib/libadjustment.so	1454c15af384b2d4
+1	14882	1698311130840036635	CMakeFiles/adjustment.dir/src/bundle_adjustment.cpp.o	c43b42e1189132f6
+1	7871	1697181259880751894	CMakeFiles/bundle_adjustment_test.dir/test/bundle_adjustment_test.cpp.o	38222f25dbf3906a
+2	14606	1698311206060848582	CMakeFiles/adjustment.dir/src/bundle_adjustment.cpp.o	c43b42e1189132f6
+14606	15157	1698311206628854693	/home/hkcrc-tony/development/bundle_adjustment/build/debug/lib/libadjustment.so	1454c15af384b2d4
+15157	15401	1698311206872857319	/home/hkcrc-tony/development/bundle_adjustment/build/debug/bin/test_bundle_adjustment	847b889404eeacba
